@@ -21,6 +21,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.example.composedapp.data.TaskEntity
+import com.example.composedapp.presentation.SearchBar
 import com.example.composedapp.presentation.TaskState
 import com.example.composedapp.presentation.TasksViewModel
 
